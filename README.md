@@ -1,2 +1,2 @@
 # programminglabs
-This is my personal repository with all of mine labs for the Programming.
+This is my personal repository with all my labs for the Programming.
