@@ -1,2 +1,2 @@
-# programminglabs
-This is my personal repository with all my labs for the Programming.
+# Programming Labs (Semester 1)
+This is a repository with all labs for 10th variant.
